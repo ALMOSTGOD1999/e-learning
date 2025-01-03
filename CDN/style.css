@@ -1,0 +1,14 @@
+/* :root{
+    --bg:#243367;
+    --text:#FFF;
+} */
+:root {
+    --bg: #fff;
+    --txt: #000;
+    --accCol:#240bff;
+}
+body{
+    background: var(--bg);
+    color:var(--txt)
+}
+
