@@ -53,6 +53,7 @@ body {
 }
 
 .right-pane {
+    margin-top: 20px;
     display: grid;
     grid-template-rows: auto 1fr;
 }
